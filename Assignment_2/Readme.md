@@ -8,3 +8,6 @@
 - For Report and Content check this link
 
 https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay/blob/main/Assignment_2/2024202006_Assignment_2.pdf
+
+
+I am not sharing my face dataset.
