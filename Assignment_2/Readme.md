@@ -4,3 +4,7 @@ Dataset should have this structure.
 
 
 For wandb you need to provide API Key which you can get just by creating an account.
+
+For Report and Content check this link
+
+https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay/blob/main/Assignment_2/2024202006_Assignment_2.pdf
