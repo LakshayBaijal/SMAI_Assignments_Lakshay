@@ -84,6 +84,17 @@ https://github.com/user-attachments/assets/a6eb28c6-14dd-4069-aa4a-199b15a84319
 
 - Could be extended to detect bounce events, estimate speed in m/s, or predict ball trajectory.
 
+## Metrics
+
+![image](https://github.com/user-attachments/assets/686eb691-fdfc-4b1f-8d94-327b5de37395)
+![image](https://github.com/user-attachments/assets/3c3f3fe5-ac82-486b-aac4-a90eeadf651e)
+
+- Precision : 89.09%
+- Recall : 62.69%
+- F1-score : 73.5%
+- mAP50	: 77.98%
+
+
 ## 📎 Links
 - Dataset Sample (Converted to YOLO format)
   ```bash
