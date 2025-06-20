@@ -1,0 +1,8 @@
+# These are my local paths. Just use Absolute Path from where you have extracted the image.
+
+train: D:/CSIS_IIIT_Hyderabad/2nd_Semester/SMAI/Project/TTnet/Ball_only/yolo_dataset/images/train
+val:   D:/CSIS_IIIT_Hyderabad/2nd_Semester/SMAI/Project/TTnet/Ball_only/yolo_dataset/images/val
+test:  D:/CSIS_IIIT_Hyderabad/2nd_Semester/SMAI/Project/TTnet/Ball_only/yolo_dataset/images/test
+
+nc: 1
+names: ['ball']
